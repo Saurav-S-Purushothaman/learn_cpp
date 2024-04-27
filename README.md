@@ -1,2 +1,2 @@
-- These are some code I wrote while learning c++
-- So that I can refer back when needed
+- These are some c++ programs that I wrote while learning for
+  reference
