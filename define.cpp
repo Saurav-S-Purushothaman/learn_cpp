@@ -4,6 +4,7 @@ using namespace std;
 //defining own constants;
 #define PI 3.14159
 #define NEWLINE '\n'
+#define long long ll
 
 
 int main ()
@@ -14,4 +15,4 @@ int main ()
  cout << circle;
  cout << NEWLINE;
  return 0;
-} 
+}
