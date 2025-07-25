@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//reading data and some method to do it 
+//reading data and some method to do it
 
 int main() {
     char ch; double d;

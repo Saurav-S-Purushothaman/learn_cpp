@@ -9,10 +9,10 @@ int main() {
 
    a = 5;
    b = 6;
-   
+
    c = a > b ? 4:5; // returns 5 since a is not greater than b;
 
    cout << c;
 
-   
+
 }
